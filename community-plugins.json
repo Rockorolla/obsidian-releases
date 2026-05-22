@@ -28670,5 +28670,12 @@
     "author": "Hēsperus",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Nifty enhancements to canvas - preview interactive canvas in notes, and export canvas to SVG.",
     "repo": "hesprs/obsidian-canvas-lens"
-  }
+  },
+{
+  "id": "easy-wikilink",
+  "name": "Easy Wikilink",
+  "author": "Rockorolla",
+  "description": "Works like Ctrl+K but for internal wikilinks. Select text, pick a page, generates [[page|selected text]]",
+  "repo": "Rockorolla/obsidian-easy-wikilink"
+}
 ]
